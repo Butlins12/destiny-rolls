@@ -5188,7 +5188,7 @@ dimwishlist:item=852228780&perks=839105230,2420895100,2284787283,2213355989
 dimwishlist:item=852228780&perks=4090651448,2420895100,2284787283,2213355989
 
 title:Season 15 (Season of the Lost) Astral Alignment weapons from Podcast 228
-description:Season activity weapon rollsdimwishlist:item=1622998472dimwishlist:item=1622998472
+description:Season activity weapon rolls
 
 // Vulpecula (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 228. PvP first choice roll. Recommended MW: Handling. Get Harmony weapons in both kinetic and energy slots.
