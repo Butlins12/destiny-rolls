@@ -1656,21 +1656,21 @@ dimwishlist:item=2496242052&perks=3798852852,3796465595,3300816228,3927722942
 
 // Imperial Needle (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 201. PvP first choice roll.
-dimwishlist:item=3460122497&perks=852209214,3429800428,1718750057,47981717
-dimwishlist:item=3460122497&perks=852209214,3827198035,1718750057,47981717
-dimwishlist:item=3460122497&perks=852209214,3311977193,1718750057,47981717
+dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,47981717
+dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,47981717
+dimwishlist:item=3460122497&perks=852209214,3311977193,201365942,47981717
 dimwishlist:item=3460122497&perks=852209214,3429800428,2450788523,47981717
 dimwishlist:item=3460122497&perks=852209214,3827198035,2450788523,47981717
 dimwishlist:item=3460122497&perks=852209214,3311977193,2450788523,47981717
 
 // Imperial Needle (PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 201. PvE first choice roll.
-dimwishlist:item=3460122497&perks=852209214,3429800428,1718750057,2726471870
-dimwishlist:item=3460122497&perks=852209214,3827198035,1718750057,2726471870
-dimwishlist:item=3460122497&perks=852209214,3311977193,1718750057,2726471870
-dimwishlist:item=3460122497&perks=852209214,3429800428,1718750057,4082225868
-dimwishlist:item=3460122497&perks=852209214,3827198035,1718750057,4082225868
-dimwishlist:item=3460122497&perks=852209214,3311977193,1718750057,4082225868
+dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,2726471870
+dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,2726471870
+dimwishlist:item=3460122497&perks=852209214,3311977193,201365942,2726471870
+dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,4082225868
+dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,4082225868
+dimwishlist:item=3460122497&perks=852209214,3311977193,201365942,4082225868
 
 // Threaded Needle (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 201. PvP first choice roll.
@@ -5188,7 +5188,7 @@ dimwishlist:item=852228780&perks=839105230,2420895100,2284787283,2213355989
 dimwishlist:item=852228780&perks=4090651448,2420895100,2284787283,2213355989
 
 title:Season 15 (Season of the Lost) Astral Alignment weapons from Podcast 228
-description:Season activity weapon rollsdimwishlist:item=1622998472dimwishlist:item=1622998472
+description:Season activity weapon rolls
 
 // Vulpecula (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 228. PvP first choice roll. Recommended MW: Handling. Get Harmony weapons in both kinetic and energy slots.
